@@ -1,3 +1,7 @@
+# TODO
+Adding a nextjs based Documentation to make it easier to read on web based, project idea. 
+
+
 # LearnOpenGL-LWJGL3
 *[OpenGL tutorial by Joey De Vries](https://github.com/JoeyDeVries/LearnOpenGL) ported to [LWJGL3](https://www.lwjgl.org/)*
 #### This is a Java adaptation of the great tutorial by Joey De Vries, available at his [website](https://learnopengl.com).
